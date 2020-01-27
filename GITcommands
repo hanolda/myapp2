@@ -1,0 +1,11 @@
+GIT
+
+git init
+git add <filename>
+git add *.html
+gitt add .  = adds all
+git status
+
+git commit
+INSERT
+ESC:q
